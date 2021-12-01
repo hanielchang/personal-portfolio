@@ -1,16 +1,8 @@
-# Run Buddy, Inc
+# Personal Portfolio
 
-## Purpose
-A website that offers fitness training services. 
+## Description
+Welcome to my personal portfolio! This site contains a short biography about me, as well as some links to my
+resume, github, and linkedIn profile. You will also find image links to my personal coding projects. Feel free
+to visit my work! If you have any questions, you may find my contact info on that portfolio as well.
 
-## Built With
-* HTML
-* CSS
-
-## Website
-https://lernantino.github.io/run-buddy/
-
-## Contribution
-Made with ❤️ by [your name]
-
-### ©️2019 Run Buddy, Inc 
+### Screenshot
